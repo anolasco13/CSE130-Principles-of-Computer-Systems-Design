@@ -86,6 +86,9 @@ curl http://localhost:<port>/foo.txt -T foo.txt
 asgn2/
 ├── httpserver.c
 ├── asgn2_helper_funcs.a
+├── iowrapper.h
+├── listener_socket.h
+├── protocol.h
 ├── Makefile
 └── README.md
 ```
